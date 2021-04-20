@@ -1,0 +1,144 @@
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\StripePayment.iOS.exe
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\StripePayment.iOS.pdb
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Acr.UserDialogs.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Acr.UserDialogs.pdb
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\BTProgressHUD.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\BTProgressHUD.pdb
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Stripe.net.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Stripe.net.pdb
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\System.Security.AccessControl.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\System.Security.Permissions.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\System.Security.Principal.Windows.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\StripePayment.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\StripePayment.pdb
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\optimized\
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\StripePayment.iOS.csprojAssemblyReference.cache
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\StripePayment.iOS.csproj.CoreCompileInputs.cache
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\StripePayment.iOS.csproj.CopyComplete
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\StripePayment.iOS.exe
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\StripePayment.iOS.pdb
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Prism.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Prism.pdb
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\StripePayment.iOS.exe
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\StripePayment.iOS.pdb
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Acr.UserDialogs.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Acr.UserDialogs.pdb
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\BTProgressHUD.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\BTProgressHUD.pdb
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Prism.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Prism.pdb
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Stripe.net.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Stripe.net.pdb
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\System.Security.AccessControl.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\System.Security.Permissions.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\System.Security.Principal.Windows.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\StripePayment.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\bin\iPhone\Debug\StripePayment.pdb
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\StripePayment.iOS.csprojAssemblyReference.cache
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\StripePayment.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\StripePayment.iOS.csproj.CopyComplete
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\StripePayment.iOS.exe
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment.iOS\obj\iPhone\Debug\StripePayment.iOS.pdb

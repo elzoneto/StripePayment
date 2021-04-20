@@ -1,0 +1,42 @@
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment\bin\Debug\netstandard2.0\StripePayment.deps.json
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment\bin\Debug\netstandard2.0\StripePayment.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment\bin\Debug\netstandard2.0\ref\StripePayment.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment\bin\Debug\netstandard2.0\StripePayment.pdb
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePayment.AssemblyInfoInputs.cache
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePayment.AssemblyInfo.cs
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePayment.csproj.CoreCompileInputs.cache
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePayment.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\ref\StripePayment.dll
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePayment.pdb
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePaymentGatwayPage.xaml.g.cs
+C:\Users\eneto\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePayment.csprojAssemblyReference.cache
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment\bin\Debug\netstandard2.0\StripePayment.deps.json
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment\bin\Debug\netstandard2.0\StripePayment.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment\bin\Debug\netstandard2.0\ref\StripePayment.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment\bin\Debug\netstandard2.0\StripePayment.pdb
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePayment.csprojAssemblyReference.cache
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePaymentGatwayPage.xaml.g.cs
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePayment.AssemblyInfoInputs.cache
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePayment.AssemblyInfo.cs
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePayment.csproj.CoreCompileInputs.cache
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePayment.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\ref\StripePayment.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\OneDrive-Work\OneDrive - NC\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePayment.pdb
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\StripePayment\StripePayment\bin\Debug\netstandard2.0\StripePayment.deps.json
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\StripePayment\StripePayment\bin\Debug\netstandard2.0\StripePayment.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\StripePayment\StripePayment\bin\Debug\netstandard2.0\ref\StripePayment.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\StripePayment\StripePayment\bin\Debug\netstandard2.0\StripePayment.pdb
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePayment.csprojAssemblyReference.cache
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePaymentGatwayPage.xaml.g.cs
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePayment.AssemblyInfoInputs.cache
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePayment.AssemblyInfo.cs
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePayment.csproj.CoreCompileInputs.cache
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePayment.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\ref\StripePayment.dll
+C:\Users\Elzo Neto\OneDrive - NC (1)\Desktop\StripePayment\StripePayment\obj\Debug\netstandard2.0\StripePayment.pdb
